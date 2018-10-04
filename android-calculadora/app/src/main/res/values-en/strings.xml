@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="valor_1">Value 1</string>
+    <string name="valor_2">Value 2</string>
+    <string name="resultado">Result</string>
+    <string name="btn_somar">Sum</string>
+    <string name="btn_subtrair">Sub</string>
+    <string name="btn_multiplicar">Mult</string>
+    <string name="btn_dividir">Div</string>
+</resources>
